@@ -1,5 +1,3 @@
-
-
 function PokemonCard({pokemon}) {
   //const pokemon = pokemonList[0];
 return <figure>
